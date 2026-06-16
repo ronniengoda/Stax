@@ -1,4 +1,4 @@
-name: Build Android APK
+name: Force Build Android APK Run
 
 on:
   workflow_dispatch: # Allows you to manually trigger the build with a button
